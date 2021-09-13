@@ -1,9 +1,24 @@
 body {
-    background-color: #111111;
-    color: #ffffff;
+    background-color: #222222;
     font-family: sans-serif;
 }
 
+.assignment {
+    background-color: #444;
+}
+
+p {
+    color: #bbb;
+}
+
 h1 {
+    color: #fff;
     text-align: center;
+    background-color: #444;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a {
+    color: #fff;
 }
